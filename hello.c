@@ -1,1 +1,6 @@
-this is C file 
+#include <iostream>
+using namespace std;
+
+main(){
+	cout<<"helo dunia";
+} 
